@@ -1,1 +1,33 @@
+body{background-color: gray;
+    line-height: 3;
+}
 
+.header h1{ 
+    font-size: 40px; 
+    color: #000;
+    text-align: center;
+    margin: 0;
+    padding: 20px 
+}
+
+p1{
+    font-size: 30px; 
+    color: whitesmoke;
+}
+
+.navbar{
+    padding: 20px;
+    background-color: #0b111b;
+
+}
+
+.navbar li{
+    display: inline-block;
+    padding: 30px;
+    background-color: rgb(146, 143, 143);
+    margin-left:2px;
+    margin-right:2px;
+    padding: 30px
+    border-radius: 20px;
+    cursor:pointer;
+}
